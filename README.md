@@ -5,4 +5,8 @@ The paper chosen for implementation and report is [Matrix Completion using Schat
 
 The report for the project can be found [here](https://github.com/KKamaleshKumar/EE5120_Course_Project/blob/master/SchattenCappedPnorm.pdf).
 
-The implementation and video presentation will be updated shortly.
+The slides used for the presentation can be found [here](https://github.com/KKamaleshKumar/EE5120_Course_Project/blob/master/SchattenCapped_pNorm.pdf)
+
+The implementation of the algorithm is [here](https://github.com/KKamaleshKumar/EE5120_Course_Project/blob/master/SchattenCappedNorm.ipynb)
+
+The video presentations is [here](https://www.youtube.com/watch?v=Nuj4s5n-nVM)
